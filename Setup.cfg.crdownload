@@ -1,0 +1,4 @@
+[develop]
+script_dir=$base/lib/My_work
+[install]
+install_scripts=$base/lib/My_work
